@@ -64,6 +64,7 @@ void testShiftEnd() {
     }
 
     cout << "Test testShiftEnd completed." << endl;
+    cout << "test commit lul" << endl;
 }
 
 void testShiftEmpty() {
